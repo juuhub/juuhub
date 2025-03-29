@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Juhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juuhub)](https://github.com/juuhub/github-readme-stats)
 
 <!--
 **juuhub/juuhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
